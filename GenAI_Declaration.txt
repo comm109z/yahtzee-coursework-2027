@@ -1,0 +1,33 @@
+GenAI Declaration: Yahtzee Coursework
+
+This assignment is AI-minimal and full details of the restrictions on AI use are detailed in the brief. 
+Please complete mark an x to indicate how you used AI in your submission, and upload this file along with your submission. 
+
+I acknowledge the following uses of GenAI tools in this assessment:
+
+[ ]	    I have not used any GenAI tools in preparing this assessment.
+
+OR
+
+[ ]	    I have used GenAI tools to assist with research or gathering information.
+[ ]		I have used GenAI tools for developing ideas.
+[ ]	    I have used GenAI tools to help me understand key theories and concepts.
+[ ]	    I have used GenAI tools to identify trends and themes as part of my data analysis.
+[ ]	    I have used GenAI tools to suggest a plan or structure for my assessment.
+[ ]	    I have used GenAI tools to give me feedback on a draft.
+[ ]	    I have used GenAI tool to generate image, figures or diagrams.
+[ ]	    I have used GenAI tools to proofread and correct grammar or spelling errors.
+[ ]	    I have used GenAI tools to generate citations or references.
+[ ]	    Other permitted use. (Please specify details below)
+
+DETAILS:
+
+
+I declare that I have referenced use of GenAI outputs within my assessment 
+in line with the University referencing guidelines (add links below).
+
+STUDENT:
+
+DATE:
+
+LINKS TO REFERENCED GEN_AI OUPUTS:
